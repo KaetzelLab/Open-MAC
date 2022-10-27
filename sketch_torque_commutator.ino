@@ -17,14 +17,11 @@ void setup() {
   pinMode(dirPin, OUTPUT);
   pinMode(stepPin, OUTPUT);
   // Hall sensors 
-
   pinMode(HALL_SENSOR_A, INPUT);
   pinMode(HALL_SENSOR_B, INPUT);
   attachInterrupt(digitalPinToInterrupt(HALL_SENSOR_A), move_backward, LOW);  
   attachInterrupt(digitalPinToInterrupt(HALL_SENSOR_B), move_forward, LOW);    
 }
-
-
 void move_forward(){ 
   digitalWrite(dirPin, LOW); 
   // Spin the stepper motor 1 revolution quickly:
@@ -34,10 +31,8 @@ void move_forward(){
     delayMicroseconds(step_delay_dur);
     digitalWrite(stepPin, LOW);
     delayMicroseconds(step_delay_dur);    
-  }  
-  
+  }   
 }
-
 void move_backward(){   
   digitalWrite(dirPin, HIGH);
   // Spin the stepper motor 1 revolution quickly:
@@ -47,11 +42,8 @@ void move_backward(){
     delayMicroseconds(step_delay_dur);
     digitalWrite(stepPin, LOW);
     delayMicroseconds(step_delay_dur);
-  }  
-  
-}
-
-  
+  }    
+}  
 void loop() { 
   delayMicroseconds(sensorReading_delay); 
  
