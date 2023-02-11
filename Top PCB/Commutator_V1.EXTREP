@@ -1,0 +1,62 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Commutator_V1.GBR   2/11/2023  1:26:55 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top                                     
+.gbr                Bottom                                  
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                bDocu                                   
+.gbr                bPlace                                  
+.gbr                Bottom Component Center                 
+.gbr                Dimension                               
+.gbr                Top 3D Body                             
+.gbr                Top Value                               
+.gbr                Bottom Glue Points                      
+.gbr                Route Tool Path                         
+.gbr                tDocu                                   
+.gbr                tPlace                                  
+.gbr                Top Component Center                    
+.gbr                Top Glue Points                         
+.gbr                Bottom Value                            
+.gbr                S_DOKU                                  
+.gbr                Top Assembly                            
+.gbr                Bottom 3D Body                          
+.gbr                Document                                
+.gbr                tFinish                                 
+.gbr                Top Courtyard                           
+.gbr                Bottom Courtyard                        
+.gbr                Unrouted                                
+.gbr                DOC                                     
+.gbr                201bmp                                  
+.gbr                Bottom Assembly                         
+.gbr                bot_pads                                
+.gbr                dxf                                     
+.gbr                Reference                               
+.gbr                Contour                                 
+.gbr                bFinish                                 
+.gbr                SMDround                                
+.gbr                Measures                                
+.gbr                Patch_BOT                               
+.gbr                help                                    
+.gbr                OrgLBR                                  
+.gbr                Mechanical 26                           
+.gbr                Descript                                
+.gbr                200bmp                                  
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
