@@ -1,0 +1,41 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Commutator Bottom.PrjPcb]
+   Generated File[Commutator Bottom_V1_Copper_Signal_Top.gbr]
+   Generated File[Commutator Bottom_V1_Copper_Signal_Bot.gbr]
+   Generated File[Commutator Bottom_V1_Pads_Bot.gbr]
+   Generated File[Commutator Bottom_V1_Pads_Top.gbr]
+   Generated File[Commutator Bottom_V1_Paste_Bot.gbr]
+   Generated File[Commutator Bottom_V1_Legend_Bot.gbr]
+   Generated File[Commutator Bottom_V1_Soldermask_Bot.gbr]
+   Generated File[Commutator Bottom_V1_Legend_Top.gbr]
+   Generated File[Commutator Bottom_V1_Paste_Top.gbr]
+   Generated File[Commutator Bottom_V1_Soldermask_Top.gbr]
+   Generated File[Commutator Bottom_V1_Keep-out.gbr]
+   Generated File[Commutator Bottom_V1_Bottom_Component_Center.gbr]
+   Generated File[Commutator Bottom_V1_Dimensions.gbr]
+   Generated File[Commutator Bottom_V1_Bottom_Courtyard.gbr]
+   Generated File[Commutator Bottom_V1_Bottom_Assembly.gbr]
+   Generated File[Commutator Bottom_V1_Top_3D_Body.gbr]
+   Generated File[Commutator Bottom_V1_Top_Value.gbr]
+   Generated File[Commutator Bottom_V1_Top_Component_Center.gbr]
+   Generated File[Commutator Bottom_V1_Mechanical_1.gbr]
+   Generated File[Commutator Bottom_V1_Top_Courtyard.gbr]
+   Generated File[Commutator Bottom_V1_Bottom_3D_Body.gbr]
+   Generated File[Commutator Bottom_V1_Mechanical_7.gbr]
+   Generated File[Commutator Bottom_V1_Mechanical_15.gbr]
+   Generated File[Commutator Bottom_V1_Mechanical_13.gbr]
+   Generated File[Commutator Bottom_V1_Bottom_Value.gbr]
+   Generated File[Commutator Bottom_V1_Route_Tool_Path.gbr]
+   Generated File[Commutator Bottom_V1_Top_Assembly.gbr]
+   Generated File[Commutator Bottom_V1_Mechanical_26.gbr]
+   Generated File[Commutator Bottom_V1_Profile.gbr]
+   Generated File[Commutator Bottom_V1.RUL]
+   Generated File[Commutator Bottom_V1.EXTREP]
+   Generated File[Commutator Bottom_V1.REP]
+
+
+Files Generated   : 32
+Documents Printed : 0
+
+Finished Output Generation At 4:03:49 PM On 5/17/2023
