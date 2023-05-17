@@ -10,7 +10,8 @@ please cite us as
 
 Kapanaiah, Sampath K.T., & Kätzel, Dennis. (2023). Open-MAC: A low-cost open-source motorized commutator for electro- and opto-physiological recordings in freely moving rodents. https://doi.org/10.5281/zenodo.7640543
 
-If you sre downloading file from zenodo
+
+# If you are downloading file from zenodo
 
 Please note that relative to v1.1 (currently only available on Zenodo, https://zenodo.org/record/7640543 ) this current version v1.2 contains two improvements:
 
