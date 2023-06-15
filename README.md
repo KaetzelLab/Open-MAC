@@ -16,7 +16,7 @@ https://github.com/KaetzelLab/Open-MAC/assets/71041273/7a731dc8-49ea-48de-bc95-c
 
 ## Ephys recording during LMA
 
-https://github.com/KaetzelLab/Open-MAC/assets/71041273/b8f6e1e2-eaf1-4bb2-b5a5-6d3819c1507c
+https://github.com/KaetzelLab/Open-MAC/assets/71041273/e578357a-732e-4ff6-8649-cc418df18f86
 
 
 # Citation
