@@ -1,5 +1,6 @@
 # Open-MAC
 Design files for an open-source motorized all-in-one commutator (Open-MAC).
+![Commutator overviewpng](https://github.com/KaetzelLab/Open-MAC/assets/71041273/72378811-3bf6-461b-9416-02a7c7c900ba)
 
 
 # Citation
