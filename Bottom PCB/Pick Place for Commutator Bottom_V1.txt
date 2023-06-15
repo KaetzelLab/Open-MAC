@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Commutator_bottom\Project Outputs for Commutator Bottom\Pick Place for Commutator Bottom_V1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/06/23
+Time:       12:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                Layer       Footprint                             Center-X(mm) Center-Y(mm) Rotation Description                                    
+OE2_TOP    B06B-XASK-1(LF)(SN)    TopLayer    FP-B06B-XASK-1_LF_SN-MFG              63.8132      32.5618      0        "CONN HEADER VERT 6POS 2.5MM"                  
+OE2_BOT    B06B-XASK-1(LF)(SN)    TopLayer    FP-B06B-XASK-1_LF_SN-MFG              63.8132      39.7849      180      "CONN HEADER VERT 6POS 2.5MM"                  
+OE2        RHD2000-CABLE-DAQ-SIDE TopLayer    RHD2000_EVAL_BOARD_OMNETICS_PZN-12-AA 74.8515      36.2738      270      "Omnetics PZN-12-AA RHD2000 socket - DAQ side" 
+OE1_TOP    B06B-XASK-1(LF)(SN)    TopLayer    FP-B06B-XASK-1_LF_SN-MFG              42.2138      23.0548      270      "CONN HEADER VERT 6POS 2.5MM"                  
+OE1_BOT    B06B-XASK-1(LF)(SN)    TopLayer    FP-B06B-XASK-1_LF_SN-MFG              49.4369      23.0548      90       "CONN HEADER VERT 6POS 2.5MM"                  
+OE1        RHD2000-CABLE-DAQ-SIDE TopLayer    RHD2000_EVAL_BOARD_OMNETICS_PZN-12-AA 45.9258      12.0165      180      "Omnetics PZN-12-AA RHD2000 socket - DAQ side" 
+SWITCH     1825232-1              TopLayer    FP-1825232-1-MFG                      49.3080      64.7700      0        "SWITCH SLIDE SPDT 200MA 30V"                  
+MiniScope  132136RP               TopLayer    132136RP                              62.1661      19.5435      315      Connector                                      
+R2         ""                     TopLayer    AXIAL-0.4                             63.8810      49.6570      0        Resistor                                       
+R1         ""                     TopLayer    AXIAL-0.4                             35.9410      49.5300      0        Resistor                                       
+MCU_IN     282834-4               TopLayer    2828344                               49.7840      54.6657      0        Connector                                      
+HALL_B     SS49E                  BottomLayer FP-SS49E-MFG                          64.3338      52.2336      180      "SENSOR LINEAR ANALOG RADIAL"                  
+HALL_A     SS49E                  BottomLayer FP-SS49E-MFG                          34.3338      52.2336      180      "SENSOR LINEAR ANALOG RADIAL"                  
