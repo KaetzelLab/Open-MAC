@@ -24,6 +24,7 @@ void setup() {
 }
 void move_forward(){ 
   digitalWrite(dirPin, LOW); 
+  digitalWrite(EnPin, LOW);
   // Spin the stepper motor 1 revolution quickly:
   for (int i = 0; i < stepsPerRevolution; i++) {
     // These four lines result in 1 step:
@@ -35,6 +36,7 @@ void move_forward(){
 }
 void move_backward(){   
   digitalWrite(dirPin, HIGH);
+  digitalWrite(EnPin, LOW);
   // Spin the stepper motor 1 revolution quickly:
   for (int i = 0; i < stepsPerRevolution; i++) {
     // These four lines result in 1 step:
@@ -45,6 +47,7 @@ void move_backward(){
   }    
 }  
 void loop() { 
+  digitalWrite(EnPin, HIGH);
   delayMicroseconds(sensorReading_delay); 
  
  }
