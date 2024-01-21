@@ -1,6 +1,8 @@
 # Open-MAC
 Design files for an open-source motorized all-in-one commutator (Open-MAC).
 
+#### For Opto-Ephys commutator please visit below link
+
 ## Multi-function overview
 
 ![1-s2 0-S2468067223000366-gr3](https://github.com/KaetzelLab/Open-MAC/assets/71041273/448d81b8-b6c1-4464-b893-6711ff7980f8)
