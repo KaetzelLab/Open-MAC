@@ -1,6 +1,7 @@
 # Open-MAC
 Design files for an open-source motorized all-in-one commutator (Open-MAC).
-BOM is updated and use BOM from GitHub to build new version of commutator
+
+BOM is updated and request user to refer BOM from GitHub to build the new version of the commutator
 
 #### For Opto-Ephys commutator please visit below link
 
